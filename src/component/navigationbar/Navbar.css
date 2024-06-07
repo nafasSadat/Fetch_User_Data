@@ -1,0 +1,16 @@
+.links {
+    color: white;
+  }
+  
+  .links a {
+    text-decoration: none;
+    color: white;
+    padding-left: 1rem;
+    gap: 1rem;
+    font-size: 1.1rem;
+    flex-wrap: wrap;
+ 
+  }
+  a:hover {
+    color: #5ff3e4;
+  }

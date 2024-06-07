@@ -1,0 +1,11 @@
+
+.tablelayout{
+    border-radius: 5px;
+}
+.tableheader{
+    font-size: 40px;
+    font-weight: 900;
+    background-color: rgb(173, 228, 225);
+    color:white
+
+}
